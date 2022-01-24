@@ -1,6 +1,6 @@
 {
   "private": false,
-  "name": "@types/microssr-ts-jsx-str",
+  "name": "@microssr/typings-ts-jsx-str",
   "version": "0.1.0",
   "description": "Type definitions for ts-jsx-str",
   "types": "index.d.ts",
