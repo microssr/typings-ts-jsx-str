@@ -1,0 +1,9 @@
+{
+  "name": "@types/microssr-ts-jsx-str",
+  "version": "0.1.0",
+  "description": "Type definitions for ts-jsx-str",
+  "types": "index.d.ts",
+  "repository": "https://github.com/microssr/typings-ts-jsx-str",
+  "author": "David Delassus <david.jose.delassus@gmail.com>",
+  "license": "MIT"
+}
